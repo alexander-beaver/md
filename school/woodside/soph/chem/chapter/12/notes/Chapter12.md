@@ -1,3 +1,4 @@
+ 
  # Types of Mixtures
 - Can see parts in some mixtures
     - ex. soil (rocks + decomposed plant and animal matter)
